@@ -30,7 +30,7 @@ module.exports={
         },
         {
             test:/\.(png|jpg|gif|jpeg)/,
-            loader:'url-loader?limit=2048'
+            loader:'url-loader?limit=8192'
         }]
     },
     plugins:[
