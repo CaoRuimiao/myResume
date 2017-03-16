@@ -82,6 +82,7 @@
                 bigTitle:"随手练习",
                 practiceLists:[
                     {Name:'移动端vue2.0实例',Url:'#'},
+                    {Name:'show++推广页面',Url:'https://caoruimiao.github.io/fullpage'},
                     {Name:'螃蟹秘密移动端页面',Url:'https://caoruimiao.github.io/pxmm'},
                     {Name:'下雪啦',Url:'https://caoruimiao.github.io/snow'},
                     {Name:'烟花下落',Url:'https://caoruimiao.github.io/dropFlower'},
